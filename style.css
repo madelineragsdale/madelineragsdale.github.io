@@ -1,0 +1,43 @@
+header {
+  background: url(https://www.freewebheaders.com/wordpress/wp-content/gallery/flowers/unique-spring-yellow-flowers-website-header.jpg);
+  text-align: center;
+  height: 100px;
+}
+
+
+header h1 {
+  color: black;
+}
+
+header img {
+  height: 1000px;
+  width: 1000px;
+  border: 5px solid white;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+ul {
+  background-color: #92e597;
+  padding: 10px;
+}
+
+li {
+  display: inline;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 30px;
+  line-height: 1.6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  margin: 100px;
+}
